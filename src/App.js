@@ -3,10 +3,10 @@ import './App.css'
 import Quiz from './Quiz'
 class App extends Component {
   render() {
-    return (
-      <Quiz />
-    )
+      return(
+      <Quiz/>)
   }
+
 }
 
 export default App
